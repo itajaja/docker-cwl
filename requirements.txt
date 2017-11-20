@@ -1,0 +1,2 @@
+-e git://github.com/itajaja/cwltool@exp-ext#egg=cwltool
+requests
